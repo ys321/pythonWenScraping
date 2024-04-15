@@ -1,0 +1,49 @@
+pip show scrapy
+
+pip install scrapy
+
+
+scrapy startproject demoScrapy
+
+cd project_name
+
+scrapy genspider spider_name domain.com
+
+scrapy genspider sp1 https://www.jmbullion.com/silver/
+
+scrapy crawl spiders
+
+scrapy crawl jmbullion-crawl
+scrapy crawl sdbullion-crawl
+
+$ilverGoldPrice1
+
+22
+mysql -h 195.35.37.15 -u root -p
+source venv/bin/activate
+
+
+mysql -u WebSilverGold  -p
+
+
+
+ZNu6W7uEm99Y3VdGLXjN
+
+
+
+
+scrapy crawl jmbullion-crawl
+
+scrapy crawl jmbullion-crawl -o jm-new.json
+
+scrapy crawl sdbullion-crawl -o sd-new.json
+
+scrapy crawl findbull_spider -o find040124.json
+
+scrapy crawl car -o car.json
+
+scrapy crawl findbull_spider -o find040224.json
+
+scrapy shell "https://findbullionprices.com/p/10-oz-Silver-Bar-Generic-Random-Secondary-Market/"
+
+
